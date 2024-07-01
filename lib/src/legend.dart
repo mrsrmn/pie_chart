@@ -22,8 +22,8 @@ class Legend extends StatelessWidget {
       children: <Widget>[
         Container(
           margin: const EdgeInsets.symmetric(vertical: 2.0),
-          height: 20.0,
-          width: 18.0,
+          height: 15.0,
+          width: 13.0,
           decoration: BoxDecoration(
             shape: legendShape,
             color: color,
